@@ -1,0 +1,1 @@
+cargo:rustc-link-search=/home/vboxuser/sensor/BMP180_stm32f411/target/thumbv7em-none-eabihf/debug/build/defmt-e122720a86d6eff4/out
